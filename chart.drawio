@@ -1,0 +1,177 @@
+<mxfile host="65bd71144e">
+    <diagram id="-eNr73jdOeutLr2GP_Wn" name="Page-1">
+        <mxGraphModel dx="1375" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0.438;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="65" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="88.96000000000004" y="229" as="targetPoint"/>
+                        <mxPoint x="431" y="74" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="69" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="466.0588235294117" y="229" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="72" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="725" y="211" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="71" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="569" y="225" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;entryX=0.565;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="425" y="62" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="975" y="234" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;entryX=0.603;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="847" y="2" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Admin/ CEO&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkFkbWluJTJGJTIwQ0VPJTIyJTdEJTVEJTdEJTJDJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkNoaWVmJTIwbG9naXN0aWMlMjBvZmZpY2VycyUyMChjbG8pJTIyJTdEJTVEJTdEJTVE&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Chief logistic officers (clo)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="709" y="-80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="67" target="66" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="251.86792452830196" y="289" as="sourcePoint"/>
+                        <mxPoint x="256" y="372" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="67" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="403" y="129" as="sourcePoint"/>
+                        <mxPoint x="253" y="229" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="69" target="68" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="417" y="307" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="71" target="70" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="567.6607142857142" y="285.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="569" y="364.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="72" target="73" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="718.5714285714289" y="285.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="719" y="364.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;" parent="1" source="20" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkRlbGl2ZXJ5JTIwbWFuYWdlciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;Delivery manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="809" y="223" width="120" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="edgeStyle=none;html=1;" parent="1" source="23" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMndhcmVob3VzZSUyMG1hbmFnZXIlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;warehouse manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="975" y="227" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="edgeStyle=none;html=1;" parent="1" source="25" target="47" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkZpbmFuY2lhbCUyME1hbmFnZXIlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;Financial Manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="1133" y="229" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;" parent="1" source="27" target="49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkN1c3RvbWVyJTIwcmVsYXRpb25zaGlwJTIwbWFuYWdlciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;Customer relationship manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="1298" y="229" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkFuYWx5dGljJTIwYW5kJTIwcmVwb3RpbmclMjBtYW5hZ2VyJTIyJTdEJTVEJTdEJTVE&quot;&gt;Analytic and repoting manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="1463" y="229" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkRlbGl2ZXJ5JTIwU3VwZXJ2aXNvciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;Delivery Supervisor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="814" y="353" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMndhcmVob3VzZSUyMFN1cGVydmlzb3IlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;warehouse Supervisor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="975" y="367" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkZpbmFuY2lhbCUyMFN0YWZmJTIyJTdEJTVEJTdEJTVE&quot;&gt;Financial Staff&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="1133" y="369" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkN1c3RvbWVyJTIwc3Vwb3J0JTIwUmVwcnNlbnRhdGl2ZSUyMiU3RCU1RCU3RCU1RA==&quot;&gt;Customer suport Reprsentative&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="1298" y="369" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Senior And Traking naager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Ensures all shipment tracking systems are functional &lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;and accurate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;coordinate with it teems&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=none;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-346" y="52" width="294" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlNlbmlvciUyMEFuZCUyMFRyYWtpbmclMjBtYW5hZ2VyJTIyJTdEJTVEJTdEJTVE&quot;&gt;Senior And Traking manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="34" y="229" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlNoaXBtZW50JTIwU3BlcnZpc29yJTIyJTdEJTVEJTdEJTVE&quot;&gt;Shipment Spervisor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="189" y="349.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMnNoaXBtZW50JTIwbWFuYWdlciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;shipment manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="189" y="223" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="&#10;&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMk9yZGVyJTIwU3VwZXJ2aXNvciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;Order Supervisor&lt;/span&gt;&#10;&#10;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="358" y="353" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMk9yZGVyJTIwRnVsbGZpbG1lbnQlMjBNYW5hZ2VyJTIyJTdEJTVEJTdEJTVE&quot;&gt;Order Fullfilment Manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="358" y="223" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkludmVudG9yeSUyMFN1cGVydmlzb3IlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;Inventory Supervisor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="504" y="353" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkludmVudG9yeSUyMG1hbmFnZXIlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;Inventory manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="509" y="229" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlRyYW5zcG9ydGF0aW9uJTIwbWFuYWdlciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;Transportation manager&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="657" y="219" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMnRyYW5zcG9ydCUyMFN1cGVydmlzb3IlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;transport Supervisor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=default;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="652" y="357" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Transportation manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Handles the fleet of vehicles,route optimization and  driver assignments&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlRyYW5zcG9ydGF0aW9uJTIwbWFuYWdlciUyMiU3RCU1RCU3RCUyQyU3QiUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjIlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIySGFuZGxlcyUyMHRoZSUyMGZsZWV0JTIwb2YlMjB2ZWhpY2xlcyUyQ3JvdXRlJTIwb3B0aW1pemF0aW9uJTIwYW5kJTIwJTIwZHJpdmVyJTIwYXNzaWdubWVudHMlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIyRW5zdXJlJTIwdGhlJTIwY29tcGxpYW5jZSUyMHdpdGglMjB0cmFuc3BvcnRhdGlvbiUyMHJlZ3VsYXRpb24lMjIlN0QlNUQlN0QlNUQ=&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Ensure the compliance with transportation regulation&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=none;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-659" y="49" width="294" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;WareHouse manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;manages multiple warehouse oprations,including inventory flow,store,and workforce&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMldhcmVIb3VzZSUyMG1hbmFnZXIlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIybWFuYWdlcyUyMG11bHRpcGxlJTIwd2FyZWhvdXNlJTIwb3ByYXRpb25zJTJDaW5jbHVkaW5nJTIwaW52ZW50b3J5JTIwZmxvdyUyQ3N0b3JlJTJDYW5kJTIwd29ya2ZvcmNlJTIyJTdEJTVEJTdEJTJDJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMmVuc3VyZSUyMHdhcmVob3VzZSUyMHNhZnR5JTIwYW5kJTIwYWRoZXJlbmNlJTIwdG8lMjBwcm90b2NvbHMlMjIlN0QlNUQlN0QlNUQ=&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;ensure warehouse safty and adherence to protocols&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-651" y="182" width="294" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Customer relationship manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;manages customer support teams to resolve queries or complaints.&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkN1c3RvbWVyJTIwcmVsYXRpb25zaGlwJTIwbWFuYWdlciUyMiU3RCU1RCU3RCUyQyU3QiUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjJtYW5hZ2VzJTIwY3VzdG9tZXIlMjBzdXBwb3J0JTIwdGVhbXMlMjB0byUyMHJlc29sdmUlMjBxdWVyaWVzJTIwb3IlMjBjb21wbGFpbnRzLiUyMiU3RCU1RCU3RCUyQyU3QiUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjJpbXBydmVzJTIwY3VzdG9tZXIlMjBzYXRpc2ZhY3Rpb24lMjBhbmQlMjBtb25pdG9ycyUyMG5ldCUyMHByb21vdGVyJTIwc2NvcmVzJTIyJTdEJTVEJTdEJTVE&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;imprves customer satisfaction and monitors net promoter scores&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-655" y="320" width="294" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Financial manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;manages financial transactions,paymets and vendor contracts&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkZpbmFuY2lhbCUyMG1hbmFnZXIlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIybWFuYWdlcyUyMGZpbmFuY2lhbCUyMHRyYW5zYWN0aW9ucyUyQ3BheW1ldHMlMjBhbmQlMjB2ZW5kb3IlMjBjb250cmFjdHMlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIydHJhY2tzJTIwdGhlJTIwbG9naXN0aWNzJTIwYnVkZ2V0cyUyQ3JldmVudWUlMkNhbmQlMjBwcm9maXRhYmlsaXR5JTIyJTdEJTVEJTdEJTVE&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;tracks the logistics budgets,revenue,and profitability&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-664" y="457.5" width="294" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Analitic and reporting manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Collect the data accros the departments and generates actionable reports.&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkFuYWxpdGljJTIwYW5kJTIwcmVwb3J0aW5nJTIwbWFuYWdlciUyMiU3RCU1RCU3RCUyQyU3QiUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjJDb2xsZWN0JTIwdGhlJTIwZGF0YSUyMGFjY3JvcyUyMHRoZSUyMGRlcGFydG1lbnRzJTIwYW5kJTIwZ2VuZXJhdGVzJTIwYWN0aW9uYWJsZSUyMHJlcG9ydHMuJTIyJTdEJTVEJTdEJTJDJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMnN1Z2dlc3RzJTIwcGVyZm9ybWFuY2UlMjBpbXByb3ZlbWVudHMlMjBiYXNzZWQlMjBvbiUyMGFuYWx5dGljcyUyMiU3RCU1RCU3RCU1RA==&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;suggests performance improvements bassed on analytics&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-655" y="607" width="294" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Inventory manager&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monitors stock levels&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and&lt;/span&gt;&lt;/p&gt;&lt;p data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkludmVudG9yeSUyMG1hbmFnZXIlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIyJTIyJTdEJTVEJTdEJTJDJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMk1vbml0b3JzJTIwc3RvY2slMjBsZXZlbHMlMjAlMjIlN0QlNUQlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyY2hpbGRyZW4lMjIlM0ElNUIlN0IlMjJ0ZXh0JTIyJTNBJTIyYW5kJTIwJTIyJTdEJTVEJTdEJTJDJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMm1pbmltaXplcyUyMG92ZXJzdG9jayUyMG9yJTIwJTIwc3RvY2tvdXRzJTIyJTdEJTVEJTdEJTVE&quot; class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;minimizes overstock or  stockouts&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-352" y="467" width="294" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;shipment manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;manages shipment planning,routing,and load&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;optimization.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;works with transportation teams to ensure timely&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;deliveries&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#f9f6f6;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-346" y="315" width="294" height="129" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Order Fullfilment Manager&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Ensure the customer orders are &lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;proccessed,packed,and shipped on time&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;element&quot;&gt;&lt;span class=&quot;pageShadowHasTransparentBackground&quot; data-slate-node=&quot;text&quot;&gt;Coordinate with inventory and warehouse&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;teems&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;glass=0;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="-346" y="177" width="294" height="129" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

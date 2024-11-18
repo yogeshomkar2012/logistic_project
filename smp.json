@@ -1,0 +1,18 @@
+[
+  {
+    "crud_permission_name": "create",
+    "permision_value": false
+  },
+  {
+    "crud_permission_name": "read",
+    "permision_value": false
+  },
+  {
+    "crud_permission_name": "update",
+    "permision_value": false
+  },
+  {
+    "crud_permission_name": "delete",
+    "permision_value": false
+  }
+]
